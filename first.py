@@ -1,3 +1,4 @@
-print("hello")
-print("yooyoyyo")
-print("Everything will be great")
+print ("hello")
+print("i write my own tools")
+print("if we have preinstalls ")
+print ("bad boy technical person")
